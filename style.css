@@ -2,8 +2,8 @@
     font-family: 'Source Code Pro';
     font-style: normal;
     font-stretch: normal;
-    src: url('../SourceCodePro-Regular.ttf.woff2') format('woff2'),
-         url('../SourceCodePro-Regular.otf.woff') format('woff');
+    src: url('./SourceCodePro-Regular.ttf.woff2') format('woff2'),
+         url('./SourceCodePro-Regular.otf.woff') format('woff');
 }
 
 BODY { 
