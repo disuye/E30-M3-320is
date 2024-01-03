@@ -9,6 +9,7 @@
 BODY { 
     font-family : 'Source Code Pro', monospace, sans-serif;  
     color: black;
+    padding-left: 15%;
 }
 
 P { 
