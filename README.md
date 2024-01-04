@@ -31,3 +31,4 @@ Almost all of the JPG images were blatantly scraped from [https://m3guru.bmwe30m
 * Nothing fancy, keep the 'file explorer' design first and foremost.
 * If anyone else wants to download the repo and go nuts, be my guest :)
 * Eventually OCR / convert the JPG index pages to text / HTML. I'm not in a rush to do this.
+* Label all JPG links on the Torque Specs page (as per Torque > Engine section).
