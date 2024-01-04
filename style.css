@@ -4,52 +4,59 @@
     font-stretch: normal;
     src: url('./SourceCodePro-Regular.ttf.woff2') format('woff2'),
          url('./SourceCodePro-Regular.otf.woff') format('woff');
-}
+    }
 
 body { 
-    font-family: 'Source Code Pro', monospace, sans-serif;  
-    color: black;
     padding: 0% 10% 10% 10%;
-    line-height: 1.4rem;
     min-width: 600px;
     overflow-x: hidden;
-}
+    }
 
-p { 
-    font-family: 'Source Code Pro', monospace, sans-serif; 
-    color: black; 
-    margin:0px; 
-    padding: 0px;
-}
+body {
+    font-family: 'Source Code Pro', monospace, sans-serif;  
+    color: black;
+    line-height: 1.4rem;
+    }
 
 a {
     text-decoration: none;
-    margin: 0px; 
-    padding: 0px;
-}
+    }
 
 a:visited { 
-    color:black;
-}
+    color:black; 
+    }
 
 a:link    { 
     text-decoration : none;
     color: #888; 
-}
+    }
 
 a:hover   { 
     background-color: yellow; 
-}
+    }
 
 a:active  { 
-}
+    }
 
 .sectionTitle {
     font-size: large;
     color: black;
-}
+    padding: 0rem 1rem;
+    border-left: 1rem solid black;
+    margin-left: -0.22rem;
+    }
+ 
+.torque .sectionTitle {
+    border: none;
+    padding: none;
+    margin-left: -1rem;
+    }
+
+.torque a {
+
+}   
 
 h2 {
     border-left: 1rem solid black;
     padding-left: 1rem;
-}
+    }
