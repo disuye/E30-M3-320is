@@ -55,11 +55,26 @@ a:active  {
     margin-left: -1rem;
     }
 
-.torque a {
-
-}   
-
 h2 {
     border-left: 1rem solid black;
     padding-left: 1rem;
     }
+
+.thumbnail {
+    width: 100px;
+    border-left: 0.1rem solid black;
+    margin: -0.4rem 0 -0.4rem 0.25rem;
+    padding: 1rem;
+    -webkit-transition: width 100ms ease-in-out;
+    -moz-transition: width 100ms ease-in-out;
+    -o-transition: width 100ms ease-in-out;
+    transition: width 100ms ease-in-out;
+}
+
+.thumbnail:hover, .thumbnail:active {
+    width: 80vh;
+    -webkit-transition: width 100ms ease-in-out;
+    -moz-transition: width 100ms ease-in-out;
+    -o-transition: width 100ms ease-in-out;
+    transition: width 100ms ease-in-out;
+}
