@@ -75,3 +75,8 @@ h2 {
     -o-transition: width 100ms ease-in-out;
     transition: width 100ms ease-in-out;
 }
+
+.footer a {
+    color black;
+    font-size:xx-small;
+}
