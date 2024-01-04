@@ -43,7 +43,7 @@ a:active  {
 
 .sectionTitle {
     font-size: large;
-    color: black;
+    color: black !important;
     padding: 0rem 1rem;
     border-left: 1rem solid black;
     margin-left: -0.22rem;
