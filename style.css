@@ -6,14 +6,16 @@
          url('./SourceCodePro-Regular.otf.woff') format('woff');
 }
 
-BODY { 
+body { 
     font-family: 'Source Code Pro', monospace, sans-serif;  
     color: black;
-    padding: 0% 15% 15% 15%;
+    padding: 0% 10% 10% 10%;
     line-height: 1.4rem;
+    min-width: 600px;
+    overflow-x: hidden;
 }
 
-P { 
+p { 
     font-family: 'Source Code Pro', monospace, sans-serif; 
     color: black; 
     margin:0px; 
@@ -28,7 +30,6 @@ a {
 
 a:visited { 
     color:black;
-    
 }
 
 a:link    { 
