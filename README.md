@@ -41,7 +41,7 @@ I used WGET for the JPG scrape, no sketchy hacking involved.
 * Only use simple CSS and HTML.
 * Assist anyone else who wants to download this repo; be my guest :)
 * OCR/convert BMW's index page JPGs to searchable text/HTML.
-* Label all JPG links on the Torque Specs page (as per Torque > Engine section), aka searchable Table of Contents.
+* Label all JPG links as per the BMW Index pages. Some of this has been done (Engine etc.); in order to create a searchable Table of Contents.
 
 # Notes on Copyright
 
