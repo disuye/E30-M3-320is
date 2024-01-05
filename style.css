@@ -11,8 +11,7 @@ body {
     background: url('./m.png') no-repeat top left fixed;
     background-size: 12.5%; 
     padding: 0% 10% 10% 10%;
-    min-width: 600px;
-    overflow-x: hidden;
+    min-width: 500px;
     text-size-adjust: 100%; 
     -ms-text-size-adjust: 100%; 
     -moz-text-size-adjust: 100%; 
@@ -24,6 +23,7 @@ body {
     color: black;
     line-height: 1.4rem;
     font-size: medium;
+    white-space: nowrap;
     }
 
 /* LINK STYLE */
