@@ -51,6 +51,6 @@ As for my HTML and CSS, go nuts, do what you want.
 
 # Resources
 
-https://m3guru.bmwe30m3.net/
-https://s14net.vbulletin.net/forum/
-https://bmw-grouparchiv.de/irc/
+* https://m3guru.bmwe30m3.net/
+* https://s14net.vbulletin.net/forum/
+* https://bmw-grouparchiv.de/irc/
