@@ -91,7 +91,7 @@ i {
     white-space: pre;
     max-width: 50%;
     display: inline-block;
-    visibility: hidden;
+    visibility: visible;
     }
 
 i:before {
