@@ -20,7 +20,7 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` can be laun
 
 `./index.html` = only lists BMW's index pages; click links to open JPGs in a new window; or click section titles to view `/SECTION/index.html`
 
-`./SECTION/index.html` = list of scanned JPGs relevant to indivudal setions ('Engine', 'Brakes' etc. etc.); click links to open JPGs in a new window
+`./SECTION/index.html` = list of scanned JPGs relevant to indivudal sections ('Engine', 'Brakes' etc. etc.); click links to open JPGs in a new window
 
 `./index-all.hmtl` = list of all scanned JPGs together on one page
 
@@ -30,9 +30,9 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` can be laun
 
 Nearly all of the JPG images were blatantly scraped from [https://m3guru.bmwe30m3.net/](https://m3guru.bmwe30m3.net/) which – at the time of coding this repository – seemed to be a defunct website. However, m3guru created a new blog post shortly before Xmas 2023, so I've since reached out to apologise :)
 
-FWIW, I spent quite a bit of time editing the scraped JPGs: Deleted duplicates, re-named files sequentially based on image content as per the original manual, added missing or poorly scanned pages (work-in-progress; I have multiple versions of the manual grabbed from the darkest corners of the internet). 
+FWIW, I spent quite a bit of time editing the scraped JPGs: Deleted duplicates, re-named files based on image content & sequentially as per the original manual, added missing or poorly scanned pages (work-in-progress; I have multiple versions of the original manual grabbed from the darkest corners of the internet). 
 
-I used WGET for the scrape, so there was no sketchy hacking involved.
+I used WGET for the JPG scrape, no sketchy hacking involved.
 
 # Goals
 
