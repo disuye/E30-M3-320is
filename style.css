@@ -80,3 +80,19 @@ h2 {
     color black;
     font-size:xx-small;
 }
+
+i {
+    font-style: unset !important;
+    color: #888;
+    white-space: pre;
+    text-overflow: ellipsis;
+    width: 50%;
+    display: inline-flex;
+    visibility: visible;
+}
+
+i:before {
+    content: "···";
+    padding-right: 0.7rem;
+    padding-left: 0.7rem;
+}
