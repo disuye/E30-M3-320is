@@ -66,7 +66,7 @@ h2 {
     -moz-transition: width 100ms ease-in-out;
     -o-transition: width 100ms ease-in-out;
     transition: width 100ms ease-in-out;
-}
+    }
 
 .thumbnail:hover, .thumbnail:active {
     width: 80vh;
@@ -74,12 +74,12 @@ h2 {
     -moz-transition: width 100ms ease-in-out;
     -o-transition: width 100ms ease-in-out;
     transition: width 100ms ease-in-out;
-}
+    }
 
 .footer a {
     color black;
     font-size:xx-small;
-}
+    }
 
 i {
     font-style: unset !important;
@@ -89,10 +89,10 @@ i {
     width: 50%;
     display: inline-flex;
     visibility: visible;
-}
+    }
 
 i:before {
     content: "···";
     padding-right: 0.7rem;
     padding-left: 0.7rem;
-}
+    }
