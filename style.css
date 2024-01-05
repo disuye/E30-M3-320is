@@ -22,6 +22,8 @@ body {
     font-size: medium;
     }
 
+/* LINK STYLE */
+
 a {
     text-decoration: none;
     }
@@ -38,6 +40,8 @@ a:link    {
 a:hover   { 
     background-color: yellow; 
     }
+
+/* GENERAL TYPOGRAPHY */
 
 .sectionTitle {
     font-size: large;
@@ -58,6 +62,8 @@ h2 {
     padding-left: 1rem;
     } 
 
+/* THUMBNAIL CODE ONLY APPLIES TO INDEX-PAGES.HTML */
+
 .thumbnail {
     width: 100px;
     border-left: 0.1rem solid black;
@@ -77,6 +83,17 @@ h2 {
     transition: width 100ms ease-in-out;
     }
 
+/* ADD VERSION NUMBER TO ALL PAGES USING CSS
+   REMEMBER TO UPDATE VERSION NUMBER */
+
+.footer:before {
+    display: block;
+    text-align: left;
+    content: "Version 0.1 : 2023.01.05";
+    }
+
+/* CHEERS! */
+
 .footer {
     margin-top: 5rem;
     padding-top: 1rem;
@@ -84,6 +101,8 @@ h2 {
     color: black;
     font-size:xx-small;
     }
+
+/* <i> TAG RE-PURPOSED AS A BULK TEXT SELECTOR */
 
 i {
     font-style: unset;
@@ -99,3 +118,5 @@ i:before {
     padding-right: 0.7rem;
     padding-left: 0.7rem;
     }
+
+/* END OF FILE */   
