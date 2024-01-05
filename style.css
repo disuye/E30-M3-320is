@@ -13,6 +13,10 @@ body {
     padding: 0% 10% 10% 10%;
     min-width: 600px;
     overflow-x: hidden;
+    text-size-adjust: 100%; 
+    -ms-text-size-adjust: 100%; 
+    -moz-text-size-adjust: 100%; 
+    -webkit-text-size-adjust: 100%;
     }
 
 body {
