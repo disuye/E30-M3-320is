@@ -93,7 +93,7 @@ h2 {
 .footer:before {
     display: block;
     text-align: left;
-    content: "Version 0.1.4 : 2024.01.07";
+    content: "Version 0.1.5 : 2024.01.07";
     }
 
 /* CHEERS! */
@@ -123,4 +123,9 @@ i:before {
     padding-left: 0.7rem;
     }
 
+.s14:after {
+    content: "[S14]";
+    padding-left: 0.7rem;
+    color: #D1002A;
+    }    
 /* END OF FILE */   
