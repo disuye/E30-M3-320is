@@ -7,8 +7,8 @@
     }
 
 body {
-    background-image: url('./m.png');
     background: url('./m.png') no-repeat top left fixed;
+    background-color: white;
     background-size: 12.5%; 
     padding: 0% 10% 10% 10%;
     min-width: 500px;
@@ -93,7 +93,7 @@ h2 {
 .footer:before {
     display: block;
     text-align: left;
-    content: "Version 0.1.6 : 2024.01.07";
+    content: "Version 0.1.7 : 2024.01.07";
     }
 
 /* CHEERS! */
