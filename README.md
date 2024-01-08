@@ -8,11 +8,11 @@ The repair manual is already available online in various formats (VM, PDF, etc.)
 
 (Typically when I want to double check the repair manual, I am underneath the car, covered in oily-sh*te and not in the mood to de-glove, trapse into the house, and scroll through a PDF on a laptop.)
 
-Putting all of these documents on Github gives the E30 M3/320is community an organised image dump, which should hopefully last for a very long time without relying on a single individual custodian.
+Putting all of these documents on Github gives the E30 M3/320is community an organised image dump, which should hopefully last for a long time without reliance on a single individual custodian.
 
 # Where
 
-My domain (disuye.com) is hosted via Github pages and `./index.html` can be launched from the link below.
+My domain (disuye.com) is hosted via Github pages and `./index.html` of this repo can be launched from the link below. Bookmark this GitHub repo should the domain name change.
 
 [https://disuye.com/E30-M3-320is/](https://disuye.com/E30-M3-320is/)
 
@@ -24,30 +24,29 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` can be laun
 
 `./index-all.hmtl` = list of all scanned JPGs together on one page
 
-`./index-pages.html` = work-in-progress, rapid thumbnail viewer
+`./index-pages.html` = do not look at this, worse-than-beta; rapid thumbnail viewer
 
 # JPG Source
 
 Nearly all of the JPG images were blatantly scraped from [https://m3guru.bmwe30m3.net/](https://m3guru.bmwe30m3.net/) which – at the time of coding this repository – seemed to be a defunct website. However, m3guru created a new blog post shortly before Xmas 2023, so I've since reached out to apologise :)
 
-FWIW, I spent quite a bit of time editing the scraped JPGs: Deleted duplicates, re-named files based on image content & sequentially as per the original manual, added missing or poorly scanned pages (work-in-progress; I have multiple versions of the original manual grabbed from the darkest corners of the internet). 
+FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files based on image content, re-name files sequentially as per the original manual, added missing pages, sections, or included better quality scanned pages from other sources (work-in-progress). 
 
-I used WGET for the JPG scrape, no sketchy hacking involved.
+I used WGET to scrape publically visible JPGs, so there was no sketchy hacking involved.
 
 # Goals
 
 * Make the BMW E30 M3/320is Repair Manual quickly accessible from any mobile browser.
 * Stick to a simple 'file explorer' style design. Nothing fancy.
-* Only use simple CSS and HTML.
-* Assist anyone else who wants to download this repo; be my guest :)
-* OCR/convert BMW's index page JPGs to searchable text/HTML.
-* Label all JPG links as per the BMW Index pages. Some of this has been done (Engine etc.); in order to create a searchable Table of Contents.
+* Stick to simple CSS and HTML. No JS or serverside nonsense.
+* Assist anyone else who wants to expand on this repo; be my guest :)
+* Convert BMW's index page JPGs to searchable text/HTML.
 
 # Notes on Copyright
 
-Obviously these images ultimately belong to BMW: If they have any issue then I will delete the entire repo on request. BMW seems to make all of this data freely available from BMW-GroupArchiv.de ... which I guess makes it public domain? 
+Obviously these images ultimately belong to BMW. If BMW takes issue then I will delete the entire repo immediately on request. BMW makes all of this data freely available from BMW-GroupArchiv.de ... there is no fee/cost to download the original PDF. My only intention is to make a 1000++ page PDF file easier to manage. 
 
-As for my HTML and CSS, go nuts, do what you want.
+Regarding my HTML/CSS – go nuts – do what you want (as long as you don't make any income from it).
 
 # Resources
 
