@@ -32,7 +32,7 @@ Nearly all of the JPG images were blatantly scraped from [https://m3guru.bmwe30m
 
 FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files based on image content, re-named files sequentially as per the original manual, added missing pages, sections, or included better quality scanned pages from other sources (work-in-progress). 
 
-I used WGET to scrape publically visible JPGs, so there was no sketchy hacking involved.
+I used WGET to scrape publicly visible JPGs, so there was no sketchy hacking involved.
 
 # Goals
 
