@@ -30,7 +30,7 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` of this rep
 
 Nearly all of the JPG images were blatantly scraped from [https://m3guru.bmwe30m3.net/](https://m3guru.bmwe30m3.net/) which – at the time of coding this repository – seemed to be a defunct website. However, m3guru created a new blog post shortly before Xmas 2023, so I've since reached out to apologise :)
 
-FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files based on image content, re-name files sequentially as per the original manual, added missing pages, sections, or included better quality scanned pages from other sources (work-in-progress). 
+FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files based on image content, re-named files sequentially as per the original manual, added missing pages, sections, or included better quality scanned pages from other sources (work-in-progress). 
 
 I used WGET to scrape publically visible JPGs, so there was no sketchy hacking involved.
 
