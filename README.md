@@ -44,7 +44,7 @@ I used WGET to scrape publicly visible JPGs, so there was no sketchy hacking inv
 
 # Notes on Copyright
 
-Obviously these images ultimately belong to BMW. If BMW takes issue then I will delete the entire repo immediately on request. BMW makes all of this data freely available from BMW-GroupArchiv.de ... there is no fee/cost to download the original PDF. My only intention is to make a 1000++ page PDF file easier to manage. 
+Obviously these images ultimately belong to BMW. If BMW takes issue then I will delete the entire repo immediately on request. BMW makes all of this data freely available from BMW-GroupArchiv.de ... there is no fee/cost to download the original PDF. My only intention is to make a 1000++ page PDF file easier to manage on a mobile device. 
 
 Regarding my HTML/CSS – go nuts – do what you want (as long as you don't make any income from it).
 
