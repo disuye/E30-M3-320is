@@ -50,7 +50,7 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 
 # Resources
 
-* https://m3guru.bmwe30m3.net/
-* https://s14net.vbulletin.net/forum/
 * https://bmw-grouparchiv.de/irc/
+* https://s14net.vbulletin.net/forum/
 * https://www.realoem.com/bmw/enUS/select?product=P&archive=1&series=E30
+* https://m3guru.bmwe30m3.net/
