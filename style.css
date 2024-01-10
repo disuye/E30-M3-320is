@@ -54,7 +54,12 @@ a:hover   {
     border-left: 1rem solid black;
     margin-left: -0.22rem;
     }
- 
+
+.sectionMore {
+    border-left: 1rem solid;
+    border-image: linear-gradient(0deg, black, white) 1;
+   } 
+    
 .torque .sectionTitle {
     border: none;
     padding: none;
