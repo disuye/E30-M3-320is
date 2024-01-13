@@ -117,11 +117,12 @@ i {
     font-style: normal;
     color: #888;
     white-space: pre;
-    max-width: 50%;
+    max-width: 70%;
     display: inline-block;
     visibility: visible;
     text-transform: uppercase;
     font-size: smaller;
+    line-height: 1.0rem;
     }
 
 i:before {
