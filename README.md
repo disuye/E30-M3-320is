@@ -54,6 +54,11 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 * https://m3guru.bmwe30m3.net/
 
 # Other Useful Links
+
 * https://s14net.vbulletin.net/forum/
 * https://www.realoem.com/bmw/enUS/select?product=P&archive=1&series=E30
+* https://www.hubauer-shop.de/en/carparts/classic/3-classic/ac95-e30-s14/
+
+# DIY Repair Guides
+
 * https://www.e30sport.net/maintenance/valve_adjustment/valve_adjustment.htm
