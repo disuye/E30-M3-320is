@@ -51,6 +51,8 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 # Resources
 
 * https://bmw-grouparchiv.de/irc/
+* https://bmw-grouparchiv.de/irc/resultlist/detailpage?id=6336013 <- M3
+* https://bmw-grouparchiv.de/irc/resultlist/detailpage?id=3833378 <- 320is
 * https://m3guru.bmwe30m3.net/
 
 # Other Useful Links
