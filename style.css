@@ -4,7 +4,7 @@
     font-stretch: normal;
     src: url('./SourceCodePro-Regular.ttf.woff2') format('woff2'),
          url('./SourceCodePro-Regular.otf.woff') format('woff');
-    }
+}
 
 body {
     background: url('./m.png') no-repeat top left fixed;
@@ -16,7 +16,9 @@ body {
     -ms-text-size-adjust: 100%; 
     -moz-text-size-adjust: 100%; 
     -webkit-text-size-adjust: 100%;
-    }
+}
+
+/* GENERAL TYPOGRAPHY */
 
 body {
     font-family: 'Source Code Pro', monospace, sans-serif;  
@@ -24,28 +26,28 @@ body {
     line-height: 1.4rem;
     font-size: medium;
     white-space: nowrap;
-    }
+}
 
 /* LINK STYLE */
 
 a {
     text-decoration: none;
-    }
+}
 
 a:visited { 
     color:black; 
-    }
+}
 
-a:link    { 
+a:link { 
     text-decoration : none;
     color: #888; 
-    }
+}
 
-a:hover   { 
+a:hover { 
     background-color: yellow; 
-    }
+}
 
-/* GENERAL TYPOGRAPHY */
+/* SPECIFIC TYPOGRAPHY */
 
 .sectionTitle {
     font-size: large;
@@ -53,44 +55,23 @@ a:hover   {
     padding: 0rem 1rem;
     border-left: 1rem solid black;
     margin-left: -0.22rem;
-    }
+}
 
 .sectionMore {
     border-left: 1rem solid;
     border-image: linear-gradient(0deg, black, white) 1;
-   } 
-    
+}
+
 .torque .sectionTitle {
     border: none;
     padding: none;
     margin-left: -1rem;
-    }
+}
 
 h2 {
     border-left: 1rem solid black;
     padding-left: 1rem;
-    } 
-
-/* THUMBNAIL CODE ONLY APPLIES TO INDEX-PAGES.HTML */
-
-.thumbnail {
-    width: 100px;
-    border-left: 0.1rem solid black;
-    margin: -0.4rem 0 -0.4rem 0.25rem;
-    padding: 1rem;
-    -webkit-transition: width 100ms ease-in-out;
-    -moz-transition: width 100ms ease-in-out;
-    -o-transition: width 100ms ease-in-out;
-    transition: width 100ms ease-in-out;
-    }
-
-.thumbnail:hover, .thumbnail:active {
-    width: 80vh;
-    -webkit-transition: width 100ms ease-in-out;
-    -moz-transition: width 100ms ease-in-out;
-    -o-transition: width 100ms ease-in-out;
-    transition: width 100ms ease-in-out;
-    }
+}
 
 /* ADD VERSION NUMBER TO ALL PAGES USING CSS
    REMEMBER TO UPDATE VERSION NUMBER */
@@ -98,8 +79,8 @@ h2 {
 .footer:before {
     display: block;
     text-align: left;
-    content: "Version 0.1.17 : 2024.01.14";
-    }
+    content: "Version 0.1.18 : 2024.01.14";
+}
 
 /* CHEERS! */
 
@@ -109,7 +90,7 @@ h2 {
     border-top: 1px solid black;
     color: black;
     font-size:xx-small;
-    }
+}
 
 /* <i> TAG RE-PURPOSED AS A BULK TEXT SELECTOR */
 
@@ -123,17 +104,40 @@ i {
     text-transform: uppercase;
     font-size: smaller;
     line-height: 1.0rem;
-    }
+}
 
 i:before {
     content: "...";
     padding-right: 0.7rem;
     padding-left: 0.7rem;
-    }
+}
 
 .s14:after {
     content: "[S14]";
     padding-left: 0.7rem;
     color: #D1002A;
-    }    
-/* END OF FILE */   
+}
+
+/* THUMBNAIL CODE ONLY APPLIES TO INDEX-PAGES.HTML */
+
+.thumbnail {
+    width: 100px;
+    border-left: 0.1rem solid black;
+    margin: -0.4rem 0 -0.4rem 0.25rem;
+    padding: 1rem;
+    -webkit-transition: width 100ms ease-in-out;
+    -moz-transition: width 100ms ease-in-out;
+    -o-transition: width 100ms ease-in-out;
+    transition: width 100ms ease-in-out;
+}
+
+.thumbnail:hover, 
+.thumbnail:active {
+    width: 80vh;
+    -webkit-transition: width 100ms ease-in-out;
+    -moz-transition: width 100ms ease-in-out;
+    -o-transition: width 100ms ease-in-out;
+    transition: width 100ms ease-in-out;
+}
+
+/* END OF FILE */
