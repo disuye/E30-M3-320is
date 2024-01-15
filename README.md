@@ -53,14 +53,17 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 * https://bmw-grouparchiv.de/irc/
 * https://bmw-grouparchiv.de/irc/resultlist/detailpage?id=6336013 <- M3
 * https://bmw-grouparchiv.de/irc/resultlist/detailpage?id=3833378 <- 320is
-* https://m3guru.bmwe30m3.net/
 
 # Other Useful Links
 
 * https://s14net.vbulletin.net/forum/
 * https://www.realoem.com/bmw/enUS/select?product=P&archive=1&series=E30
 * https://www.hubauer-shop.de/en/carparts/classic/3-classic/ac95-e30-s14/
+* https://www.bmwe21.net/?page_id=173 <- 320is
+* https://bmwmregistry.com/model_faq.php?id=10 <- 320is
+* https://www.e30zone.net/e30wiki/index.php/320iS <- 320is
+* https://m3guru.bmwe30m3.net/
 
-# DIY Repair Guides
+# S14 Repair Guides
 
 * https://www.e30sport.net/maintenance/valve_adjustment/valve_adjustment.htm

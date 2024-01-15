@@ -73,13 +73,20 @@ h2 {
     padding-left: 1rem;
 }
 
+.blockText {
+    padding: 1rem 0 2rem 0;
+    width: 80vw !important;
+    max-width: 500px;
+    white-space: normal;
+}
+
 /* ADD VERSION NUMBER TO ALL PAGES USING CSS
    REMEMBER TO UPDATE VERSION NUMBER */
 
 .footer:before {
     display: block;
     text-align: left;
-    content: "Version 0.1.18 : 2024.01.14";
+    content: "Version 0.1.19 : 2024.01.15";
 }
 
 /* CHEERS! */
@@ -138,6 +145,35 @@ i:before {
     -moz-transition: width 100ms ease-in-out;
     -o-transition: width 100ms ease-in-out;
     transition: width 100ms ease-in-out;
+}
+
+/* TABLES */
+
+table {
+    width: 500px !important;
+    text-align: left;
+    vertical-align: middle !important;
+    border-spacing: 0px !important;
+    word-wrap: break-word;
+}
+
+#techTable td, 
+#techTable th {
+    background-color: rgba(128, 128, 128, 0.1);
+    padding: 0.35rem;
+    padding-left: 1rem;
+    margin: 0rem;
+}
+  
+#techTable tr:nth-child(odd){
+    background-color: rgba(128, 128, 128, 0.2);
+}
+  
+.tableCellA {
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    width: 100%;
 }
 
 /* END OF FILE */
