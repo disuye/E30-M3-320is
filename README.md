@@ -67,3 +67,33 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 # S14 Repair Guides
 
 * https://www.e30sport.net/maintenance/valve_adjustment/valve_adjustment.htm
+
+---
+
+# To Do List
+
+00 - &#x2713;
+11 - &#x2713;
+12 - &#x2713;
+13 - &#x2713;
+14 - &#x2713;
+17 - &#x2713;
+18 - &#x2713;
+21 - &#x2713;
+23 - &#x2713;
+25 - &#x2713;
+26 - &#x2713;
+31 - Front Axle
+33 - Rear Axle
+34 - Brakes
+36 - Wheels and Tires
+41 - Body
+41 - Body (Convertible)
+51 - &#x2713;
+52 - &#x2713;
+54 - Hood, Sun Roof
+62 - Instruments
+64 - Heating and Air Conditioning
+65 - Radio and Special Equipment 
+72 - &#x2713;
+97 - &#x2713;
