@@ -42,6 +42,8 @@ FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files b
 
 I used WGET to scrape publicly visible JPGs, so there was no sketchy hacking involved.
 
+And regarding the 1990 BMW M3 Electrical Troubleshooting Manual, that was ripped from PDF to JPG using Affinity Design, with some adjustments during the batch process.
+
 # Goals
 
 * Make the BMW E30 M3/320is Repair Manual quickly accessible from any mobile browser.
