@@ -42,7 +42,7 @@ FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files b
 
 I used WGET to scrape publicly visible JPGs, so there was no sketchy hacking involved.
 
-And regarding the 1990 BMW M3 Electrical Troubleshooting Manual, that was ripped from PDF to JPG using [https://affinity.serif.com/en-us/designer/](Affinity Designer), with some adjustments during the batch process.
+And regarding the 1990 BMW M3 Electrical Troubleshooting Manual, that was ripped from PDF to JPG using Affinity Designer, with some adjustments during the batch process.
 
 # Goals
 
