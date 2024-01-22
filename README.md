@@ -18,13 +18,21 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` of this rep
 
 # Site Structure
 
-`./index.html` = only lists BMW's index pages; click links to open JPGs in a new window; or click section titles to view `/SECTION/index.html`
+`./index.html` 
 
-`./SECTION/index.html` = list of scanned JPGs relevant to indivudal sections ('Engine', 'Brakes' etc. etc.); click links to open JPGs in a new window
+⇧ only lists BMW's index pages; click links to open JPGs in a new window; or click section titles to view `/SECTION/index.html`
 
-`./index-all.hmtl` = list of all scanned JPGs together on one page
+`./SECTION/index.html` 
 
-`./index-pages.html` = do not look at this, worse-than-beta; rapid thumbnail viewer
+⇧ list of scanned JPGs relevant to indivudal sections ('Engine', 'Brakes' etc. etc.); click links to open JPGs in a new window
+
+`./index-all.hmtl` 
+
+⇧ list of all scanned JPGs together on one page
+
+`./index-pages.html`
+
+⇧ do not look at this, worse-than-beta; CSS-only rapid thumbnail viewer
 
 # JPG Source
 
@@ -33,6 +41,8 @@ Nearly all of the JPG images were blatantly scraped from [https://m3guru.bmwe30m
 FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files based on image content, re-named files sequentially as per the original manual, added missing pages, sections, or included better quality scanned pages from other sources (work-in-progress). 
 
 I used WGET to scrape publicly visible JPGs, so there was no sketchy hacking involved.
+
+And regarding the 1990 BMW M3 Electrical Troubleshooting Manual, that was ripped from PDF to JPG using Affinity Designer, with some adjustments during the batch process.
 
 # Goals
 
