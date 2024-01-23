@@ -93,16 +93,17 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 - 23 - &#x2713;
 - 25 - &#x2713;
 - 26 - &#x2713;
-- 31 - Front Axle
-- 33 - Rear Axle
+- 31 - &#x2713;
+- 33 - &#x2713;
 - 34 - Brakes
-- 36 - Wheels and Tires
+- 36 - &#x2713;
 - 41 - Body
 - 41 - Body (Convertible)
 - 51 - &#x2713;
 - 52 - &#x2713;
 - 54 - Hood, Sun Roof
-- 62 - Instruments
+- 62 - &#x2713;
+- 63 - &#x2713;
 - 64 - Heating and Air Conditioning
 - 65 - Radio and Special Equipment 
 - 72 - &#x2713;
