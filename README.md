@@ -95,7 +95,7 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 - 26 - &#x2713;
 - 31 - &#x2713;
 - 33 - &#x2713;
-- 34 - Brakes
+- 34 - &#x2713;
 - 36 - &#x2713;
 - 41 - Body
 - 41 - Body (Convertible)
