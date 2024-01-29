@@ -101,10 +101,10 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 - 41 - Body (Convertible)
 - 51 - &#x2713;
 - 52 - &#x2713;
-- 54 - Hood, Sun Roof
+- 54 - &#x2713;
 - 62 - &#x2713;
 - 63 - &#x2713;
-- 64 - Heating and Air Conditioning
-- 65 - Radio and Special Equipment 
+- 64 - &#x2713;
+- 65 - &#x2713; 
 - 72 - &#x2713;
 - 97 - &#x2713;
