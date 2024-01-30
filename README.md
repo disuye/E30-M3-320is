@@ -17,6 +17,53 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` of this rep
 [https://disuye.com/E30-M3-320is/](https://disuye.com/E30-M3-320is/)
 
 # Site Structure
+```
+./ index.html
+     │
+     ├──./ 1990 BMW M3 Electrical Troubleshooting Manual / index.html ──▻ *.jpg
+     │
+     ├──./ index-all.html ──▻ *.jpg
+     ┊       │
+     ├───────┘
+     │
+     ├──./ 00 - Maintenance / index.html  ──▻ *.jpg
+     │                           │
+     │       ┌───────────────────┘
+     │       ├──../ M3-techspec.html
+     │       ├──../ 320is-techspec.html
+     │       └──../ Reference Images / Bosch Motronic system drawing.png
+     │
+     ├──./ 00 - Torque Specs / index.hml ──▻ *.jpg 
+     ├──./ 11 - Engine / index.html ──▻ *.jpg
+     ├──./ 12 - Engine Electrical System / index.html ──▻ *.jpg
+     ├──./ 13 - Fuel System / index.html ──▻ *.jpg
+     ├──./ 16 - Fuel Tank and Lines / index.html ──▻ *.jpg
+     ├──./ 17 - Radiator / index.html ──▻ *.jpg
+     ├──./ 18 - Exhaust System / index.html ──▻ *.jpg
+     ├──./ 21 - Clutch / index.html ──▻ *.jpg
+     ├──./ 23 - Manual Transmission / index.html ──▻ *.jpg
+     ├──./ 25 - Gear Shift Mechanism / index.html ──▻ *.jpg
+     ├──./ 26 - Propellor Shaft / index.html ──▻ *.jpg
+     ├──./ 31 - Front Axle / index.html ──▻ *.jpg
+     ├──./ 33 - Rear Axle / index.html ──▻ *.jpg
+     ├──./ 34 - Brakes / index.html ──▻ *.jpg
+     ├──./ 35 - Pedals / index.html ──▻ *.jpg
+     ├──./ 36 - Wheels and Tires / index.html ──▻ *.jpg
+     ├──./ 41 - Body / index.html ──▻ *.jpg
+     ├──./ 41 - Body (Convertibles) / index.html ──▻ *.jpg
+     ├──./ 51 - Body Equipment / index.html ──▻ *.jpg
+     ├──./ 52 - Seats / index.html ──▻ *.jpg
+     ├──./ 54 - Hood, Sun Roof / index.html ──▻ *.jpg
+     ├──./ 62 - Instruments / index.html ──▻ *.jpg
+     ├──./ 63 - Lights / index.html ──▻ *.jpg
+     ├──./ 64 - Heating and Air Conditioning / index.html ──▻ *.jpg
+     ├──./ 65 - Radio and Special Equipment / index.html ──▻ *.jpg
+     ├──./ 72 - Equipment and Accessories for Body / index.html ──▻ *.jpg
+     └──./ 97 - Body Cavity Sealing and Undercoating / index.html ──▻ *.jpg
+```
+
+
+
 
 `./index.html` 
 
