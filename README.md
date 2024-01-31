@@ -20,8 +20,6 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` of this rep
 ```
 ./ index.html
      │
-     ├──./ 1990 BMW M3 Electrical Troubleshooting Manual / index.html ──▻ *.jpg
-     │
      ├──./ index-all.html ──▻ *.jpg
      ┊       │
      ├───────┘
@@ -36,6 +34,9 @@ My domain (disuye.com) is hosted via Github pages and `./index.html` of this rep
      ├──./ 00 - Torque Specs / index.hml ──▻ *.jpg 
      ├──./ 11 - Engine / index.html ──▻ *.jpg
      ├──./ 12 - Engine Electrical System / index.html ──▻ *.jpg
+     │
+     ├──./ 1990 BMW M3 Electrical Troubleshooting Manual / index.html ──▻ *.jpg
+     │
      ├──./ 13 - Fuel System / index.html ──▻ *.jpg
      ├──./ 16 - Fuel Tank and Lines / index.html ──▻ *.jpg
      ├──./ 17 - Radiator / index.html ──▻ *.jpg
