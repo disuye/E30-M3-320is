@@ -118,9 +118,10 @@ Regarding my HTML/CSS – go nuts – do what you want (as long as you don't mak
 * https://www.e30zone.net/e30wiki/index.php/320iS <- 320is
 * https://m3guru.bmwe30m3.net/
 
-# S14 Repair Guides
+# S14 Repair / Mod Guides
 
 * https://www.e30sport.net/maintenance/valve_adjustment/valve_adjustment.htm
+* https://garagistic.zendesk.com/hc/en-us/articles/360048613654-E30-to-E36-Z3-Steering-Rack-Swap-Kit-Install-Guide
 
 ---
 
