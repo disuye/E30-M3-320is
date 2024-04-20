@@ -12,9 +12,9 @@ Putting all of these documents on Github gives the E30 M3/320is community an org
 
 # Where
 
-My domain (disuye.com) is hosted via Github pages and `./index.html` of this repo can be launched from the link below. Bookmark this GitHub repo should the domain name change.
+Bookmark this Github repo in case the domain changes.
 
-[https://disuye.com/E30-M3-320is/](https://disuye.com/E30-M3-320is/)
+[http://e30mpower.com](http://e30mpower.com)
 
 # Site Structure
 ```
