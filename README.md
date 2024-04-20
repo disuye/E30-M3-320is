@@ -17,6 +17,11 @@ Bookmark this Github repo in case the domain changes.
 [http://e30mpower.com](http://e30mpower.com)
 
 # Site Structure
+
+The main index page lists all chapters of the repair manual, plus a few other useful resources. Link lead away to chapters. 
+
+The index-all page lists every single JPG scan in one place (use CTRL+F to perform text searches).
+
 ```
 ./ index.html
      │
@@ -25,10 +30,6 @@ Bookmark this Github repo in case the domain changes.
      ├───────┘
      │
      ├──./ 00 - Maintenance / index.html  ──▻ *.jpg
-     │       ┌───────────────────┘
-     │       ├──../ M3-techspec.html
-     │       ├──../ 320is-techspec.html
-     │       └──../ Reference Images / Bosch Motronic system drawing.png
      ├──./ 00 - Torque Specs / index.hml ──▻ *.jpg 
      ├──./ 11 - Engine / index.html ──▻ *.jpg
      ├──./ 12 - Engine Electrical System / index.html ──▻ *.jpg
