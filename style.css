@@ -86,7 +86,7 @@ h2 {
 .footer:before {
     display: block;
     text-align: left;
-    content: "Version 0.1.35 : 2024.04.21";
+    content: "Version 0.1.36 : 2024.04.21";
 }
 
 /* CHEERS! */
@@ -111,6 +111,10 @@ i {
     text-transform: uppercase;
     font-size: smaller;
     line-height: 1.0rem;
+}
+
+i:hover {
+    background-color: rgba(255, 255, 0, 0.15);
 }
 
 i:before {
