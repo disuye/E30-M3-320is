@@ -1,79 +1,32 @@
 # What
 
-JPG scans of the 1989 BMW Repair Manual for E30 M3 (S14B23) and 320is (S14B20), indexed here via HTML.
+JPG scans of the 1989 BMW Repair Manual for E30 M3 (S14B23) and 320is (S14B20), and also the 1990 BMW M3 Electrical Troubleshooting Manual, indexed via simple HTML.
 
 # Why
 
-The repair manual is already available online in various formats (VM, PDF, etc.) but I wanted a very simple HTML based 'file explorer' which would work on any mobile phone browser.
+The repair manual is available online in various formats (VM, PDF, etc.) but I wanted a simple HTML based 'file explorer' which could be opened with any mobile phone browser.
 
-(Typically when I want to double check the repair manual, I am underneath the car, covered in oily-sh*te and not in the mood to de-glove, trapse into the house, and scroll through a PDF on a laptop.)
-
-Putting all of these documents on Github gives the E30 M3/320is community an organised image dump, which should hopefully last for a long time without reliance on a single individual custodian.
+Hosting all of these documents on Github gives the E30 M3/320is community an easily searchable archive of all scanned manual pages, to refer to / link back to – and these links should hopefully remain unchanged for as long as Github exists.
 
 # Where
 
-Bookmark this Github repo in case the domain changes.
+The domain below is operated by me, however, it's a good idea to bookmark this Github repo in case the domain changes.
 
 [http://e30mpower.com](http://e30mpower.com)
 
 # Site Structure
 
-The main index page lists all chapters of the repair manual, plus a few other useful resources. Link lead away to chapters. 
-
-The index-all page lists every single JPG scan in one place (use CTRL+F to perform text searches).
-
-```
-./ index.html
-     │
-     ├──./ index-all.html ──▻ *.jpg
-     ┊       │
-     ├───────┘
-     │
-     ├──./ 00 - Maintenance / index.html  ──▻ *.jpg
-     ├──./ 00 - Torque Specs / index.hml ──▻ *.jpg 
-     ├──./ 11 - Engine / index.html ──▻ *.jpg
-     ├──./ 12 - Engine Electrical System / index.html ──▻ *.jpg
-     ├──./ 1990 BMW M3 Electrical Troubleshooting Manual / index.html ──▻ *.jpg
-     ├──./ 13 - Fuel System / index.html ──▻ *.jpg
-     ├──./ 16 - Fuel Tank and Lines / index.html ──▻ *.jpg
-     ├──./ 17 - Radiator / index.html ──▻ *.jpg
-     ├──./ 18 - Exhaust System / index.html ──▻ *.jpg
-     ├──./ 21 - Clutch / index.html ──▻ *.jpg
-     ├──./ 23 - Manual Transmission / index.html ──▻ *.jpg
-     ├──./ 25 - Gear Shift Mechanism / index.html ──▻ *.jpg
-     ├──./ 26 - Propellor Shaft / index.html ──▻ *.jpg
-     ├──./ 31 - Front Axle / index.html ──▻ *.jpg
-     ├──./ 33 - Rear Axle / index.html ──▻ *.jpg
-     ├──./ 34 - Brakes / index.html ──▻ *.jpg
-     ├──./ 35 - Pedals / index.html ──▻ *.jpg
-     ├──./ 36 - Wheels and Tires / index.html ──▻ *.jpg
-     ├──./ 41 - Body / index.html ──▻ *.jpg
-     ├──./ 41 - Body (Convertibles) / index.html ──▻ *.jpg
-     ├──./ 51 - Body Equipment / index.html ──▻ *.jpg
-     ├──./ 52 - Seats / index.html ──▻ *.jpg
-     ├──./ 54 - Hood, Sun Roof / index.html ──▻ *.jpg
-     ├──./ 62 - Instruments / index.html ──▻ *.jpg
-     ├──./ 63 - Lights / index.html ──▻ *.jpg
-     ├──./ 64 - Heating and Air Conditioning / index.html ──▻ *.jpg
-     ├──./ 65 - Radio and Special Equipment / index.html ──▻ *.jpg
-     ├──./ 72 - Equipment and Accessories for Body / index.html ──▻ *.jpg
-     └──./ 97 - Body Cavity Sealing and Undercoating / index.html ──▻ *.jpg
-```
-
-
-
-
 `./index.html` 
 
-⇧ only lists BMW's index pages; click links to open JPGs in a new window; or click section titles to view `/SECTION/index.html`
+⇧ list of chapter index pages; links open individual chapter index pages i.e: `/SECTION/index.html`
 
 `./SECTION/index.html` 
 
-⇧ list of scanned JPGs relevant to indivudal sections ('Engine', 'Brakes' etc. etc.); click links to open JPGs in a new window
+⇧ list of scanned JPGs relevant to individual chapter ('Engine', 'Brakes' etc. etc.); links open scanned JPGs
 
 `./index-all.hmtl` 
 
-⇧ list of all scanned JPGs together on one page
+⇧ list of all scanned JPGs together on one page, use CTRL+F or similar to perform a text search
 
 `./index-pages.html`
 
@@ -81,27 +34,24 @@ The index-all page lists every single JPG scan in one place (use CTRL+F to perfo
 
 # JPG Source
 
-Nearly all of the JPG images were blatantly scraped from [https://m3guru.bmwe30m3.net/](https://m3guru.bmwe30m3.net/) which – at the time of coding this repository – seemed to be a defunct website. However, m3guru created a new blog post shortly before Xmas 2023, so I've since reached out to apologise :)
+Many of the JPG images were WGET scraped from [https://m3guru.bmwe30m3.net/](https://m3guru.bmwe30m3.net/) which – at the time of making this repository – seemed to be a defunct website. However, m3guru created a new blog post shortly before Xmas 2023, so I've since reached out to apologise. I deleted duplicate scans, re-named all files based on content, organised all scans sequentially as per the original manual structure, added missing pages from other PDFs, added missing sections, and included better quality scanned pages from other sources where necessary. 
 
-FWIW, I took time editing the scraped JPGs: Deleted duplicates, re-named files based on image content, re-named files sequentially as per the original manual, added missing pages, sections, or included better quality scanned pages from other sources (work-in-progress). 
-
-I used WGET to scrape publicly visible JPGs, so there was no sketchy hacking involved.
-
-And regarding the 1990 BMW M3 Electrical Troubleshooting Manual, that was ripped from PDF to JPG using Affinity Designer, with some adjustments during the batch process.
+And regarding the 1990 BMW M3 Electrical Troubleshooting Manual, that was ripped from PDF to JPG using Affinity Designer, with some image adjustments during the batch process.
 
 # Goals
 
-* Make the BMW E30 M3/320is Repair Manual quickly accessible from any mobile browser.
-* Stick to a simple 'file explorer' style design. Nothing fancy.
-* Stick to simple CSS and HTML. No JS or serverside nonsense.
-* Assist anyone else who wants to expand on this repo; be my guest :)
-* Convert BMW's index page JPGs to searchable text/HTML.
+* Make the BMW E30 M3/320is Repair Manual accessible on any mobile browser.
+* Simple 'file explorer' style design. Nothing fancy.
+* Simple CSS and HTML. No other web tech.
+* Make scanned JPGs searchable via text search.
 
 # Notes on Copyright
 
-Obviously these images ultimately belong to BMW. If BMW takes issue then I will delete the entire repo immediately on request. BMW makes all of this data freely available from BMW-GroupArchiv.de ... there is no fee/cost to download the original PDF. My only intention is to make a 1000++ page PDF file easier to manage on a mobile device. 
+These images ultimately belong to BMW. If BMW takes issue then I will delete the entire repo immediately on request. BMW does make all of this data freely available from www.BMW-GroupArchiv.de ... there is no fee/cost to download the original PDFs. 
 
-Regarding my HTML/CSS – go nuts – do what you want (as long as you don't make any income from it).
+My only intention is to make a 1300++ pages of PDF manuals easier to manage on a mobile device. 
+
+Regarding this repo – go nuts – do what you want. Fork it, steal for you own website. As long as you don't make any income from it, go ahead and use it
 
 # Resources
 
