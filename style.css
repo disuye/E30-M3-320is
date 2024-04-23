@@ -23,7 +23,7 @@ body {
 @media only screen and (max-device-width: 500px) {
     body {
         background-size: 7% !important; 
-        padding: 2% 2% 10% 2% !important;
+        padding: 0% 2% 10% 2% !important;
         text-size-adjust: 200% !important;
         -ms-text-size-adjust: 200% !important; 
         -moz-text-size-adjust: 200% !important; 
@@ -37,7 +37,6 @@ body {
         display: inline-block !important;
         overflow: hidden !important;
         text-overflow: ellipsis !important;
-        max-width: 80% !important;
     }
 }
 
