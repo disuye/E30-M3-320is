@@ -10,12 +10,35 @@ body {
     background: url('./m.png') no-repeat top left fixed;
     background-color: white;
     background-size: 12.5%; 
-    padding: 0% 10% 10% 10%;
+    padding: 2% 10% 10% 10%;
     min-width: 500px;
     text-size-adjust: 100%; 
     -ms-text-size-adjust: 100%; 
     -moz-text-size-adjust: 100%; 
     -webkit-text-size-adjust: 100%;
+}
+
+/* MOBILE DEVICES */
+
+@media only screen and (max-device-width: 500px) {
+    body {
+        background-size: 7% !important; 
+        padding: 2% 2% 10% 2% !important;
+        text-size-adjust: 200% !important;
+        -ms-text-size-adjust: 200% !important; 
+        -moz-text-size-adjust: 200% !important; 
+        -webkit-text-size-adjust: 200% !important;
+        line-height: 140% !important;
+    }
+    h2, .sectionTitle, .sectionMore {
+        border-left: 1.6rem solid black !important;
+    }
+    i {
+        display: inline-block !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+        max-width: 80% !important;
+    }
 }
 
 /* GENERAL TYPOGRAPHY */
@@ -86,7 +109,7 @@ h2 {
 .footer:before {
     display: block;
     text-align: left;
-    content: "Version 0.1.36 : 2024.04.21";
+    content: "Version 0.1.37 : 2024.04.23";
 }
 
 /* CHEERS! */
