@@ -64,8 +64,7 @@ Regarding this repo – go nuts – do what you want. Fork it, steal for you own
 * http://www.bentleypublishers.com//bmw/owners-manuals/bmw-e30-3-series-restoration-bible.html
 * http://www.bentleypublishers.com//bmw/repair-information/bmw-3-series-e30-1984-1990-repair-manual.html
 
-
-# Forums & Online Stores
+# Forums, Links, Online Stores
 
 * https://s14net.vbulletin.net/forum/
 * https://www.realoem.com/bmw/enUS/select?product=P&archive=1&series=E30
@@ -75,6 +74,7 @@ Regarding this repo – go nuts – do what you want. Fork it, steal for you own
 * https://bmwmregistry.com/model_faq.php?id=10 <- 320is
 * https://www.e30zone.net/e30wiki/index.php/320iS <- 320is
 * https://m3guru.bmwe30m3.net/
+* https://www.e30.de/index.php <- fantastic E30 resource
 
 # S14 Repair & Modification Guides
 
