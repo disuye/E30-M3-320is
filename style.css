@@ -52,6 +52,16 @@ body {
     transform: scale(0.9, 1.0);
 }
 
+.globe::before {
+/* &#127760;&#xfe0e; */
+/* https://www.amp-what.com/#q=%3E */
+    display: inline-block;
+    content: "\01f310\00fe0e";
+    transform: scale(0.9, 0.8);
+    margin-left: -0.15rem;
+    margin-right: 0.20rem;
+}
+
 /* LINK STYLE */
 
 a {
@@ -114,7 +124,7 @@ h2 {
 .footer:before {
     display: block;
     text-align: left;
-    content: "Version 0.1.38 : 2024.12.08";
+    content: "Version 0.1.39 : 2024.12.15";
 }
 
 /* CHEERS! */
