@@ -34,7 +34,9 @@ The domain below is operated by me, however, it's a good idea to bookmark this G
 
 # JPG Source
 
-Many of the JPG images were WGET scraped from [https://m3guru.bmwe30m3.net/](https://m3guru.bmwe30m3.net/) which – at the time of making this repository – seemed to be a defunct website. However, m3guru created a new blog post shortly before Xmas 2023, so I've since reached out to apologise. I deleted duplicate scans, re-named all files based on content, organised all scans sequentially as per the original manual structure, added missing pages from other PDFs, added missing sections, and included better quality scanned pages from other sources where necessary. 
+Many of the JPG images were WGET scraped from [https://m3guru.bmwe30m3.net/](https://m3guru.bmwe30m3.net/) which – at the time of making this repository – seemed to be a defunct website. However, m3guru created a new blog post shortly before Xmas 2023, so I've since reached out to apologise. 
+
+I deleted duplicate scans, re-named all files based on content, organised all scans sequentially as per the original manual structure, added missing pages from other PDFs, added missing sections, and included better quality scanned pages from other sources where necessary. 
 
 And regarding the 1990 BMW M3 Electrical Troubleshooting Manual, that was ripped from PDF to JPG using Affinity Designer, with some image adjustments during the batch process.
 
@@ -64,10 +66,15 @@ Regarding this repo – go nuts – do what you want. Fork it, steal for you own
 * http://www.bentleypublishers.com//bmw/owners-manuals/bmw-e30-3-series-restoration-bible.html
 * http://www.bentleypublishers.com//bmw/repair-information/bmw-3-series-e30-1984-1990-repair-manual.html
 
+# BMW Part Number Search
+
+* https://www.realoem.com/bmw/enUS/select?product=P&archive=1&series=E30 <- E30
+* https://bimmercat.com/bmw/en/search/selectCar/E30/2-T/BMW+M3+model+47266/ECE <- M3
+* https://bimmercat.com/bmw/en/search/selectCar/E30/4-T/BMW+320is+model+47277/ECE <- 320is
+
 # Forums, Links, Online Stores
 
 * https://s14net.vbulletin.net/forum/
-* https://www.realoem.com/bmw/enUS/select?product=P&archive=1&series=E30
 * https://www.hubauer-shop.de/en/carparts/classic/3-classic/ <- EU based E30 parts
 * https://www.timsclassicparts.nl/ <- EU based E30 parts
 * https://www.bmwe21.net/?page_id=173 <- 320is
